@@ -11,10 +11,10 @@ const CONFIG_CAMPANA = {
 
   // Enlaces oficiales de tus Redes Sociales (Cambia los links aquí):
   redes: {
-    tiktok: 'https://www.tiktok.com/',
+    tiktok: 'https://www.tiktok.com/@movimiento._co',
     instagram: 'https://www.instagram.com/movimiento._co/',
-    youtube: 'https://www.youtube.com/',
-    twitter: 'https://x.com/'
+    youtube: 'https://www.youtube.com/@MovimientoCo-CAO',
+    twitter: 'https://x.com/MovimientoCO_'
   },
 
   // MEMES FIJOS INICIALES (Además, la página cargará automáticamente
